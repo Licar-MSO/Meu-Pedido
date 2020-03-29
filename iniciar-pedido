@@ -8,7 +8,7 @@
 <body>
  <!-- Facebook Pixel Code -->
  <script>
-    const FACEBOOK_PIXEL = 'CÓDIGO_DO_SEU_PIXEL';
+    const FACEBOOK_PIXEL = '217841416004795';
 </script>
 <script>
         !function (f, b, e, v, n, t, s) {
@@ -30,12 +30,12 @@
         }(window,
             document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
 
-                    fbq('init', 'CÓDIGO_DO_SEU_PIXEL');
+                    fbq('init', '217841416004795');
         
         fbq('track', 'Purchase');
 
     </script>
 <!-- End Facebook Pixel Code -->
-<meta http-equiv="refresh" content="0;URL=http://LINK_CHATT_WPP.com"></meta>
+<meta http-equiv="refresh" content="0;URL=http://bit.ly/AtendimentoMSO"></meta>
 </body>
 </html>
